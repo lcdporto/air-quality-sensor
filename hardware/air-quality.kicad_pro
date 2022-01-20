@@ -49,10 +49,7 @@
         }
       },
       "diff_pair_dimensions": [],
-      "drc_exclusions": [
-        "silk_over_copper|128530000|110000000|aa28b154-03cb-47e9-b297-0d4c1b0a4334|0afa5357-c57e-42cd-b476-72d99f39fe9f",
-        "silk_over_copper|137470000|110000000|aa28b154-03cb-47e9-b297-0d4c1b0a4334|f138c51d-0ee0-424a-a154-6e86a60a846b"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -82,7 +79,7 @@
         "padstack": "error",
         "pth_inside_courtyard": "ignore",
         "shorting_items": "error",
-        "silk_over_copper": "warning",
+        "silk_over_copper": "ignore",
         "silk_overlap": "warning",
         "skew_out_of_range": "error",
         "through_hole_pad_without_hole": "error",
@@ -120,7 +117,8 @@
       "zones_allow_external_fillets": false,
       "zones_use_no_outline": true
     },
-    "layer_presets": []
+    "layer_presets": [],
+    "viewports": []
   },
   "boards": [],
   "cvpcb": {
