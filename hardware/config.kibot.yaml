@@ -64,8 +64,7 @@ outputs:
     options:
       html:
         datasheet_as_link: Datasheet
-        digikey_link: Digikey
-        title: 'Index MOBO Bill of Materials'
+        title: 'LCD Porto Air Quality Bill of Materials'
 
   - name: 'print_sch'
     comment: "Print schematic (PDF)"
@@ -179,7 +178,7 @@ outputs:
           name: Designator
         - field: Footprint
           name: Footprint
-        - field: JLCPCB
+        - field: LCSC
           name: 'LCSC Part #'
       csv:
         hide_pcb_info: true
