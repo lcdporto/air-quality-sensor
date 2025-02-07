@@ -55,7 +55,7 @@ jobs:
         zip -r -j ../pnp_gerbers.zip *        
 
     - name: upload artifacts
-      uses: actions/upload-artifact@v2
+      uses: actions/upload-artifact@v4
       with:
         name: board_output
         path: hardware/export
