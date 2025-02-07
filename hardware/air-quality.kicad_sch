@@ -3965,7 +3965,6 @@
 	)
 	(label "TX"
 		(at 82.55 158.75 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3976,7 +3975,6 @@
 	)
 	(label "RTS"
 		(at 105.41 184.15 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3987,7 +3985,6 @@
 	)
 	(label "RX"
 		(at 161.29 97.79 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3998,7 +3995,6 @@
 	)
 	(label "RTS"
 		(at 71.12 176.53 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4009,7 +4005,6 @@
 	)
 	(label "USB_DN"
 		(at 72.39 67.31 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4020,7 +4015,6 @@
 	)
 	(label "TX"
 		(at 161.29 92.71 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4031,7 +4025,6 @@
 	)
 	(label "DTR"
 		(at 133.35 184.15 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4042,7 +4035,6 @@
 	)
 	(label "RTS"
 		(at 123.19 177.8 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4053,7 +4045,6 @@
 	)
 	(label "SCL"
 		(at 227.33 123.19 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4064,7 +4055,6 @@
 	)
 	(label "SCL"
 		(at 224.79 54.61 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4075,7 +4065,6 @@
 	)
 	(label "GPIO0"
 		(at 133.35 172.72 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4086,7 +4075,6 @@
 	)
 	(label "GPIO0"
 		(at 162.56 90.17 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4097,7 +4085,6 @@
 	)
 	(label "SCL"
 		(at 138.43 152.4 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4108,7 +4095,6 @@
 	)
 	(label "SDA"
 		(at 161.29 100.33 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4119,7 +4105,6 @@
 	)
 	(label "SCL"
 		(at 219.71 95.25 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4130,7 +4115,6 @@
 	)
 	(label "SDA"
 		(at 227.33 125.73 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4141,7 +4125,6 @@
 	)
 	(label "SDA"
 		(at 224.79 57.15 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4152,7 +4135,6 @@
 	)
 	(label "SCL"
 		(at 161.29 102.87 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4163,7 +4145,6 @@
 	)
 	(label "SDA"
 		(at 219.71 92.71 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4174,7 +4155,6 @@
 	)
 	(label "USB_DN"
 		(at 50.8 166.37 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4185,7 +4165,6 @@
 	)
 	(label "USB_DP"
 		(at 72.39 74.93 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4196,7 +4175,6 @@
 	)
 	(label "DTR"
 		(at 95.25 177.8 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4207,7 +4185,6 @@
 	)
 	(label "SDA"
 		(at 147.32 152.4 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4218,7 +4195,6 @@
 	)
 	(label "RST"
 		(at 130.81 90.17 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4229,7 +4205,6 @@
 	)
 	(label "RX"
 		(at 71.12 156.21 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4240,7 +4215,6 @@
 	)
 	(label "USB_DP"
 		(at 50.8 163.83 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4251,7 +4225,6 @@
 	)
 	(label "DTR"
 		(at 71.12 173.99 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4262,7 +4235,6 @@
 	)
 	(label "RST"
 		(at 105.41 172.72 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
